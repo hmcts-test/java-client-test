@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: timj-onetwo
+  description: backstage docs-test
+  annotations:
+    github.com/project-slug: ''
+  tags:
+    - library
+    - timj-onetwo
+spec:
+  type: library
+  lifecycle: experimental
+  owner: dts_platform_operations
